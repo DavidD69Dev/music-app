@@ -1,6 +1,6 @@
 import mask from "../images/MaskGroup23.png"
 import path from "../images/path.png"
-import group9 from "../images/group9.png"
+import group9 from "../images/Group9.png"
 
 function MusicPlayer() {
   return (
