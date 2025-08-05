@@ -1,5 +1,5 @@
 import CenterMenu from './CenterMenu'
-import muziclogo from "../images/Muziclogo.png"
+import muziclogo from "../images/MuzicLogo.png"
 
 
 function Header() {
@@ -7,7 +7,7 @@ function Header() {
 
   return (
     <div className="header bg-[#081730] flex items-center justify-between px-[5rem] pt-[2.4rem] text-[0.8]">
-        <img src={muziclogo} alt="musiclogo" className="logo w-[42px] h-[42]" />
+        <img src={muziclogo} alt="muziclogo" className="logo w-[42px] h-[42]" />
         <CenterMenu />
         <div className="buttons flex">
             <button className={`mr-[35px] hover:bg-[#232A4E] ` +buttonStyle}>Login</button>
