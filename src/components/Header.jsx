@@ -1,6 +1,5 @@
-import React from 'react'
 import CenterMenu from './CenterMenu'
-import muziclogo from "../images/muziclogo.png"
+import muziclogo from "../images/Muziclogo.png"
 
 
 function Header() {
